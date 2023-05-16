@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Array_Excercise/src"/>
+	<classpathentry kind="src" path="Basic Programming Concepts/src"/>
+	<classpathentry kind="src" path="Interest_Calculator/src"/>
+	<classpathentry kind="src" path="Lucky Sevens/src"/>
+	<classpathentry kind="src" path="Mandatory_Assessment_JavaBasics/src"/>
+	<classpathentry kind="src" path="Mandatory_Assessment_JavaClassObjects/src"/>
+	<classpathentry kind="output" path="Array_Excercise/bin"/>
+</classpath>
